@@ -68,8 +68,6 @@ function Home() {
             <hr />
         </div>
 
-        <Footer></Footer>
-
     </div>);
 }
 
